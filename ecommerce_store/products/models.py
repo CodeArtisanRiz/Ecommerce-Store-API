@@ -12,7 +12,8 @@ class Products(models.Model):
     name = models.CharField(max_length=100)
     description = models.TextField()
     price = models.IntegerField()
-    image = models.ImageField(upload_to='products_images/')
+    # image = models.ImageField(upload_to='products_images/')
+    image = models.CharField(max_length=255)
     created_at = models.DateTimeField(default=timezone.now)
     updated_at = models.DateTimeField(default=timezone.now)
 

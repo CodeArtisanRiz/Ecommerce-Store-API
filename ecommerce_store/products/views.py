@@ -15,3 +15,11 @@ class ProductListView(APIView):
         products = Products.objects.all()
         serializer = ProductSerializer(products, many=True)
         return Response(serializer.data, status=200, content_type='application/json')
+
+class AddProductView(APIView):
+    def post(self, request):
+        serializer = ProductSerializer(data=request.data)
+        if serializer.is_valid():
+            serializer.save()
+            return Response({"message": "Product added successfully"}, status=201)
+        return Response(serializer.errors, status=400)

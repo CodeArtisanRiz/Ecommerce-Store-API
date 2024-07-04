@@ -1,0 +1,16 @@
+[
+    {
+        "status": "A",
+        "name": "Product 5",
+        "description": "This is a test product",
+        "price": 10,
+        "image": "https://m.media-amazon.com/images/I/81+t+tomZ1L._AC_UY1000_.jpg"
+    },
+    {
+        "status": "A",
+        "name": "Reebok Pro",
+        "description": "This is a test product",
+        "price": 10,
+        "image": "https://m.media-amazon.com/images/I/81+t+tomZ1L._AC_UY1000_.jpg"
+    }
+]
