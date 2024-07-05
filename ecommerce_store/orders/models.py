@@ -2,16 +2,6 @@ from django.db import models
 from products.models import Products
 from django.utils import timezone
 
-# Create your models here.
-# orders/models.py
-
-# class Orders(models.Model):
-#     products = models.ManyToManyField(Products)
-#     order_date = models.DateTimeField(auto_now_add=True)
-
-#     def __str__(self):
-#         return f'Order {self.id} on {self.order_date}'
-
 class Orders(models.Model):
     ORDER_STATUS_CHOICES = (
         ('P', 'Pending'),
