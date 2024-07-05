@@ -1,4 +1,3 @@
-# products/(link unavailable)
 from rest_framework import serializers
 from .models import Products
 
