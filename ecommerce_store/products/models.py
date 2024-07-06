@@ -7,10 +7,24 @@ class Products(models.Model):
         ('A', 'Active'),
         ('D', 'Deactivated'),
     )
+    CATEGORY_CHOICES = (
+        ('EL', 'Electronics'),
+        ('HM', 'Home & Kitchen'),
+        ('BT', 'Beauty & Personal Care'),
+        ('SP', 'Sports & Outdoors'),
+        ('OF', 'Office Supplies'),
+        ('HG', 'Health & Wellness'),
+        ('BK', 'Books & Media'),
+        ('TS', 'Toys & Games'),
+        ('JW', 'Jewelry & Accessories'),
+        ('FD', 'Food & Beverages'),
+        ('NO', 'None')
+    )
     id = models.AutoField(primary_key=True)
-    status = models.CharField(max_length=2, choices=STATUS_CHOICES)
+    status = models.CharField(max_length=2, choices=STATUS_CHOICES, default='NO')
     name = models.CharField(max_length=100)
     description = models.TextField()
+    category = models.CharField(max_length=2, choices=CATEGORY_CHOICES)
     price = models.IntegerField()
     # image = models.ImageField(upload_to='products_images/')
     image = models.CharField(max_length=255)
