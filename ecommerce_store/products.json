@@ -1,275 +1,142 @@
 [
     {
-        "status": "A",
-        "name": "Nike Air Zoom Pegasus 38",
-        "description": "The Nike Air Zoom Pegasus 38 delivers responsive cushioning and a secure fit, ideal for daily runs.",
-        "price": 149.99,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/q3iow2m8xazqy1hltm7z/air-zoom-pegasus-38-womens-road-running-shoes-kzRxm8.jpg"
+      "name": "Smartphone X200",
+      "category": "EL",
+      "price": 1200.00,
+      "description": "A high-end smartphone with amazing features.",
+      "image": "path/to/image1.jpg"
     },
     {
-        "status": "A",
-        "name": "Adidas Ultraboost 21",
-        "description": "The Adidas Ultraboost 21 offers unrivaled comfort and energy return, perfect for long-distance running.",
-        "price": 179.99,
-        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/0e2a5c4be7e343d78a4daa4a00c5b5e4_9366/Ultraboost_21_Shoes_White_FX1751_01_standard.jpg"
+      "name": "Blender Pro",
+      "category": "HM",
+      "price": 1100.00,
+      "description": "A powerful blender for all your kitchen needs.",
+      "image": "path/to/image2.jpg"
     },
     {
-        "status": "A",
-        "name": "Puma RS-Fast Sneakers",
-        "description": "The Puma RS-Fast Sneakers combine retro style with modern comfort, making them perfect for everyday wear.",
-        "price": 129.99,
-        "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/380273/01/sv01/fnd/EEA/fmt/png/RS-Fast-Men's-Sneakers"
+      "name": "Luxury Face Cream",
+      "category": "BT",
+      "price": 1300.00,
+      "description": "An anti-aging face cream for radiant skin.",
+      "image": "path/to/image3.jpg"
     },
     {
-        "status": "A",
-        "name": "New Balance Fresh Foam 1080v11",
-        "description": "The New Balance Fresh Foam 1080v11 provides luxurious comfort and a plush ride for runners seeking a cushioned feel.",
-        "price": 169.99,
-        "image": "https://nb.scene7.com/is/image/NB/w1080b11_nb_02_i?$pdpflexf2$&fmt=webp"
+      "name": "Mountain Bike Pro",
+      "category": "SP",
+      "price": 1500.00,
+      "description": "A rugged mountain bike for outdoor adventures.",
+      "image": "path/to/image4.jpg"
     },
     {
-        "status": "A",
-        "name": "Under Armour HOVR Phantom 2",
-        "description": "The Under Armour HOVR Phantom 2 delivers a zero-gravity feel and energy return, designed for long-distance runs.",
-        "price": 159.99,
-        "image": "https://underarmour.scene7.com/is/image/Underarmour/V21_S21_3023370_003_HOVRApex2DPR_Phantom2_Vanish_Heritage_02?$image_mt_prod-mthero$"
+      "name": "Ergonomic Office Chair",
+      "category": "OF",
+      "price": 1250.00,
+      "description": "An ergonomic chair for maximum comfort.",
+      "image": "path/to/image5.jpg"
     },
     {
-        "status": "A",
-        "name": "Brooks Ghost 14",
-        "description": "The Brooks Ghost 14 provides smooth transitions and soft cushioning, making it ideal for neutral runners.",
-        "price": 149.99,
-        "image": "https://www.brooksrunning.com/on/demandware.static/-/Sites-BrooksRunning-Library/default/dw3fe615b4/images/products/110354/110354_141_l_WR.jpg"
+      "name": "Wellness Yoga Mat",
+      "category": "HG",
+      "price": 1050.00,
+      "description": "A durable yoga mat for all levels.",
+      "image": "path/to/image6.jpg"
     },
     {
-        "status": "A",
-        "name": "Saucony Ride 14",
-        "description": "The Saucony Ride 14 offers a smooth and responsive ride, perfect for daily training and long-distance runs.",
-        "price": 139.99,
-        "image": "https://www.saucony.com/on/demandware.static/-/Sites-saucony_us-Library/en_US/dw4c5f3d18/images/hi-res/S20636-20-01.jpg"
+      "name": "Latest Bestseller Novel",
+      "category": "BK",
+      "price": 1100.00,
+      "description": "A gripping novel you won't be able to put down.",
+      "image": "path/to/image7.jpg"
     },
     {
-        "status": "A",
-        "name": "ASICS Gel-Nimbus 23",
-        "description": "The ASICS Gel-Nimbus 23 provides cloud-like comfort and advanced support, designed for long-distance runners.",
-        "price": 159.99,
-        "image": "https://asics.scene7.com/is/image/asics/1011B071_400_SR_RT?$sfcc-product$"
+      "name": "Interactive Robot Toy",
+      "category": "TS",
+      "price": 1450.00,
+      "description": "A fun and educational robot toy for kids.",
+      "image": "path/to/image8.jpg"
     },
     {
-        "status": "A",
-        "name": "Mizuno Wave Rider 25",
-        "description": "The Mizuno Wave Rider 25 offers a smooth and stable ride, combining cushioning with responsiveness.",
-        "price": 149.99,
-        "image": "https://www.mizunousa.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8c5a37e7/images/product-images/Running/WaveRider25/J1GC220327_CERI_01.jpg"
+      "name": "Elegant Necklace",
+      "category": "JW",
+      "price": 1600.00,
+      "description": "A beautiful necklace for special occasions.",
+      "image": "path/to/image9.jpg"
     },
     {
-        "status": "A",
-        "name": "Hoka One One Clifton 8",
-        "description": "The Hoka One One Clifton 8 features a lightweight design and maximal cushioning, perfect for daily runs.",
-        "price": 149.99,
-        "image": "https://www.hoka.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8e96b9e6/images/product-images/1119394_CWHT_01.jpg"
+      "name": "Gourmet Chocolate Box",
+      "category": "FD",
+      "price": 1150.00,
+      "description": "A box of premium chocolates.",
+      "image": "path/to/image10.jpg"
     },
     {
-        "status": "A",
-        "name": "Nike Air Max 270",
-        "description": "The Nike Air Max 270 combines style with comfort, featuring Nike's largest Air unit for a smooth ride.",
-        "price": 150,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/cr5k6hprgsfgaumj4ofe/air-max-270-mens-shoes-zvR7g5.jpg"
+      "name": "4K Ultra HD TV",
+      "category": "EL",
+      "price": 2000.00,
+      "description": "A 4K Ultra HD TV for the ultimate viewing experience.",
+      "image": "path/to/image11.jpg"
     },
     {
-        "status": "A",
-        "name": "Adidas Stan Smith",
-        "description": "The Adidas Stan Smith is an iconic tennis shoe known for its clean design and timeless appeal.",
-        "price": 80,
-        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/994fb51ab7424bce8d64ac0f014b3d6a_9366/stan-smith-shoes.jpg"
+      "name": "Professional Stand Mixer",
+      "category": "HM",
+      "price": 1700.00,
+      "description": "A professional stand mixer for baking enthusiasts.",
+      "image": "path/to/image12.jpg"
     },
     {
-        "status": "A",
-        "name": "Converse Chuck Taylor All Star",
-        "description": "The Converse Chuck Taylor All Star is a classic sneaker loved for its versatility and iconic silhouette.",
-        "price": 55,
-        "image": "https://images.converse.com/is/image/Converse/162058C_A_Standard?fmt=webp"
+      "name": "Premium Hair Dryer",
+      "category": "BT",
+      "price": 1350.00,
+      "description": "A high-performance hair dryer.",
+      "image": "path/to/image13.jpg"
     },
     {
-        "status": "A",
-        "name": "Vans Old Skool",
-        "description": "The Vans Old Skool is a skate shoe known for its durability, comfort, and timeless style.",
-        "price": 60,
-        "image": "https://images.vans.com/is/image/Vans/D3HY28-HERO?$583x583$"
+      "name": "Golf Club Set",
+      "category": "SP",
+      "price": 1900.00,
+      "description": "A complete set of golf clubs.",
+      "image": "path/to/image14.jpg"
     },
     {
-        "status": "A",
-        "name": "Reebok Classic Leather",
-        "description": "The Reebok Classic Leather is a retro sneaker with a soft leather upper and supportive fit.",
-        "price": 75,
-        "image": "https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/8f8a5e6a0ed74c38a696aa2d00f2f07f_9366/Classic_Leather_Shoes_White_49797_01_standard.jpg"
+      "name": "Wireless Printer",
+      "category": "OF",
+      "price": 1300.00,
+      "description": "A wireless printer for home or office use.",
+      "image": "path/to/image15.jpg"
     },
     {
-        "status": "A",
-        "name": "Puma Suede Classic",
-        "description": "The Puma Suede Classic is an iconic sneaker with a suede upper and Puma's signature Formstrip.",
-        "price": 65,
-        "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/355462/36/sv01/fnd/EEA/fmt/png/Suede-Classic-XXI-Unisex-Sneakers"
+      "name": "Fitness Tracker",
+      "category": "HG",
+      "price": 1400.00,
+      "description": "A fitness tracker to monitor your health.",
+      "image": "path/to/image16.jpg"
     },
     {
-        "status": "A",
-        "name": "New Balance 574",
-        "description": "The New Balance 574 is a classic sneaker featuring a suede and mesh upper for comfort and style.",
-        "price": 80,
-        "image": "https://nb.scene7.com/is/image/NB/ml574scd_nb_02_i?$pdpflexf2$&fmt=webp"
+      "name": "Cookbook for Beginners",
+      "category": "BK",
+      "price": 1100.00,
+      "description": "A comprehensive cookbook for beginners.",
+      "image": "path/to/image17.jpg"
     },
     {
-        "status": "A",
-        "name": "Under Armour Charged Assert 8",
-        "description": "The Under Armour Charged Assert 8 offers cushioning and support, perfect for running and training.",
-        "price": 70,
-        "image": "https://underarmour.scene7.com/is/image/Underarmour/V21_S21_3024194_600_ChargedAssert8_MenBlueJet_01?$image_mt_prod-mthero$"
+      "name": "Educational Puzzle Set",
+      "category": "TS",
+      "price": 1500.00,
+      "description": "A set of educational puzzles for kids.",
+      "image": "path/to/image18.jpg"
     },
     {
-        "status": "A",
-        "name": "Brooks Adrenaline GTS 21",
-        "description": "The Brooks Adrenaline GTS 21 provides stability and support, ideal for runners needing overpronation support.",
-        "price": 130,
-        "image": "https://www.brooksrunning.com/on/demandware.static/-/Sites-BrooksRunning-Library/default/dwcc08ee0f/images/products/110349/110349_081_l_WR.jpg"
+      "name": "Diamond Earrings",
+      "category": "JW",
+      "price": 2500.00,
+      "description": "A pair of stunning diamond earrings.",
+      "image": "path/to/image19.jpg"
     },
     {
-        "status": "A",
-        "name": "Saucony Kinvara 12",
-        "description": "The Saucony Kinvara 12 is a lightweight, responsive shoe designed for speed and comfort.",
-        "price": 110,
-        "image": "https://s7d9.scene7.com/is/image/Saucony/20638-05-1?fmt=webp"
-    },
-    {
-        "status": "A",
-        "name": "ASICS Gel-Kayano 28",
-        "description": "The ASICS Gel-Kayano 28 offers stability and support with advanced cushioning for long-distance runs.",
-        "price": 160,
-        "image": "https://asics.scene7.com/is/image/asics/1011B189_001_SR_RT?$sfcc-product$"
-    },
-    {
-        "status": "A",
-        "name": "Mizuno Wave Inspire 17",
-        "description": "The Mizuno Wave Inspire 17 provides a stable ride and enhanced cushioning for overpronators.",
-        "price": 135,
-        "image": "https://mizunousa.scene7.com/is/image/MizunoUSA/J1GC214305-00-WaveInspire17_01?$pdp-main$"
-    },
-    {
-        "status": "A",
-        "name": "Hoka One One Bondi 7",
-        "description": "The Hoka One One Bondi 7 delivers maximum cushioning and comfort for long-distance running.",
-        "price": 150,
-        "image": "https://cdn.shopify.com/s/files/1/0084/1145/5470/products/1106472-BBLC_1_2048x.jpg?v=1621276711"
-    },
-    {
-        "status": "A",
-        "name": "Nike Free RN 5.0",
-        "description": "The Nike Free RN 5.0 offers a barefoot-like feel with flexible support for natural movement.",
-        "price": 100,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f28f08c2-3872-45c5-b3e4-e12c82d8b204/free-rn-5-0-mens-road-running-shoes-NJH1X2.jpg"
-    },
-    {
-        "status": "A",
-        "name": "Adidas NMD_R1",
-        "description": "The Adidas NMD_R1 combines street-ready style with comfort and boost cushioning.",
-        "price": 140,
-        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/736b19d4b9bb4e25ae1ca9ed00b72454_9366/NMD_R1_Shoes_Black_FY9121_01_standard.jpg"
-    },
-    {
-        "status": "A",
-        "name": "Puma RS-X3",
-        "description": "The Puma RS-X3 reinterprets the RS design with bold colors and enhanced comfort.",
-        "price": 110,
-        "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/371570/18/sv01/fnd/EEA/fmt/png/RS-X3-Puzzle-Sneakers"
-    },
-    {
-        "status": "A",
-        "name": "New Balance 990v5",
-        "description": "The New Balance 990v5 offers premium cushioning and stability, made in the USA.",
-        "price": 175,
-        "image": "https://nb.scene7.com/is/image/NB/m990gl5_nb_02_i?$pdpflexf2$&fmt=webp"
-    },
-    {
-        "status": "A",
-        "name": "Under Armour Project Rock 3",
-        "description": "The Under Armour Project Rock 3 provides durability and comfort for intense training sessions.",
-        "price": 140,
-        "image": "https://underarmour.scene7.com/is/image/Underarmour/V5-PS-1-3022594-100_HERO?wid=587&hei=587&fmt=jpg"
-    },
-    {
-        "status": "A",
-        "name": "Brooks Levitate 4",
-        "description": "The Brooks Levitate 4 offers high energy return and a sleek fit for a responsive run.",
-        "price": 150,
-        "image": "https://www.brooksrunning.com/on/demandware.static/-/Sites-BrooksRunning-Library/default/dwd8980af0/images/products/110345/110345_026_l_WR.jpg"
-    },
-    {
-        "status": "A",
-        "name": "Saucony Triumph 18",
-        "description": "The Saucony Triumph 18 delivers plush cushioning and a smooth ride for long-distance runs.",
-        "price": 150,
-        "image": "https://s7d9.scene7.com/is/image/Saucony/20595-05-1?fmt=webp"
-    },
-    {
-        "status": "A",
-        "name": "ASICS Gel-Cumulus 23",
-        "description": "The ASICS Gel-Cumulus 23 provides soft cushioning and smooth transitions for neutral runners.",
-        "price": 120,
-        "image": "https://asics.scene7.com/is/image/asics/1012A881_001_SR_RT?$sfcc-product$"
-    },
-    {
-        "status": "A",
-        "name": "Mizuno Wave Sky 4",
-        "description": "The Mizuno Wave Sky 4 offers cloud-like cushioning and a responsive feel for long runs.",
-        "price": 160,
-        "image": "https://mizunousa.scene7.com/is/image/MizunoUSA/J1GC200301-00-WaveSky4-01?$pdp-main$"
-    },
-    {
-        "status": "A",
-        "name": "Hoka One One Arahi 5",
-        "description": "The Hoka One One Arahi 5 provides a supportive ride with lightweight stability.",
-        "price": 130,
-        "image": "https://cdn.shopify.com/s/files/1/0084/1145/5470/products/1115010-BGNB_1_2048x.jpg?v=1621276711"
-    },
-    {
-        "status": "A",
-        "name": "Nike React Infinity Run Flyknit 2",
-        "description": "The Nike React Infinity Run Flyknit 2 delivers support and cushioning for injury prevention.",
-        "price": 160,
-        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/5550cc8f-ec71-4955-b755-176b0af3ef7c/react-infinity-run-flyknit-2-womens-road-running-shoes-nkX3r7.jpg"
-    },
-    {
-        "status": "A",
-        "name": "Adidas Solarboost 3",
-        "description": "The Adidas Solarboost 3 offers energy return and comfort for long-distance running.",
-        "price": 160,
-        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/0dff0c2871b84a9a999faaa600e28b05_9366/SolarBoost_3_Shoes_White_FY8790_01_standard.jpg"
-    },
-    {
-        "status": "A",
-        "name": "Puma Deviate Nitro",
-        "description": "The Puma Deviate Nitro features lightweight cushioning and propulsion for faster runs.",
-        "price": 150,
-        "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/195171/01/sv01/fnd/EEA/fmt/png/Deviate-Nitro-Men's-Running-Shoes"
-    },
-    {
-        "status": "A",
-        "name": "New Balance Fresh Foam Hierro v6",
-        "description": "The New Balance Fresh Foam Hierro v6 offers cushioning and traction for trail running.",
-        "price": 135,
-        "image": "https://nb.scene7.com/is/image/NB/wthierg6_nb_02_i?$pdpflexf2$&fmt=webp"
-    },
-    {
-        "status": "A",
-        "name": "Under Armour HOVR Sonic 4",
-        "description": "The Under Armour HOVR Sonic 4 provides a breathable, cushioned ride for everyday runs.",
-        "price": 110,
-        "image": "https://underarmour.scene7.com/is/image/Underarmour/3023559-101_HERO?wid=587&hei=587&fmt=jpg"
-    },
-    {
-        "status": "A",
-        "name": "Brooks Glycerin 19",
-        "description": "The Brooks Glycerin 19 offers plush cushioning and a smooth ride for long-distance comfort.",
-        "price": 150,
-        "image": "https://www.brooksrunning.com/on/demandware.static/-/Sites-BrooksRunning-Library/default/dw1f3e8d6d/images/products/120343/120343_069_l_WR.jpg"
+      "name": "Organic Coffee Beans",
+      "category": "FD",
+      "price": 1200.00,
+      "description": "A bag of organic coffee beans.",
+      "image": "path/to/image20.jpg"
     }
-]
+  ]

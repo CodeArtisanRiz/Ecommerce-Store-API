@@ -27,4 +27,5 @@ urlpatterns = [
     # Add apps urls
     path('products/', include('products.urls')),
     path('orders/', include('orders.urls')),
+    path('recommendations/', include('recommendations.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
