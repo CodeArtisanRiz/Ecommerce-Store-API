@@ -1,0 +1,17 @@
+[
+  {
+    "customer_name": "Rajesh Kutrapalli",
+    "customer_email": "raj.kp@example.com",
+    "customer_phone": "987-654-3210",
+    "shipping_address": "456 MG Road",
+    "shipping_city": "Mumbai",
+    "shipping_state": "MH",
+    "shipping_zip": "400001",
+    "shipping_country": "India",
+    "products": [30, 15, 25],
+    "total_price": 299.99,
+    "payment_method": "Debit Card",
+    "payment_status": "Paid",
+    "status": "D"
+  }
+]
