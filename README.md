@@ -190,7 +190,7 @@ Response:
     }
 ```
 
-### F. View a Order:
+### E. View a Order:
 
     1. Open Postman.
     2. Set the request type to GET.
@@ -280,14 +280,6 @@ python manage.py load_orders link.json
 ```
     Example:
     python manage.py load_orders single_order.json
-
-### G. Create Bulk Products from JSON:
-
-```
-python manage.py load_products link.json
-```
-    Example:
-    python manage.py load_products single_pro.json
 
 ### I. Create Recommendations:
 
