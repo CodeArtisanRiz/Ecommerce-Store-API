@@ -1,10 +1,9 @@
 [
     {
-      "name": "Apple Iphone 14",
-      "status": ''
+      "name": "Sony Xperia",
       "category": "EL",
       "price": 54000.00,
-      "description": "A high-end smartphone with poor battery life and low-quality camera.",
+      "description": "A high-end smartphone with high-quality camera and great looks.",
       "image": "path/to/image1.jpg"
     }
   ]

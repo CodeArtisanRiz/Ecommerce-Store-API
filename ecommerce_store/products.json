@@ -1,6 +1,7 @@
 [
     {
       "name": "Smartphone X200",
+      "status": "A",
       "category": "EL",
       "price": 1200.00,
       "description": "A high-end smartphone with amazing features.",
