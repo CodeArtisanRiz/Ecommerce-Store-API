@@ -1,0 +1,10 @@
+[
+    {
+      "name": "Apple Iphone 14",
+      "status": ''
+      "category": "EL",
+      "price": 54000.00,
+      "description": "A high-end smartphone with poor battery life and low-quality camera.",
+      "image": "path/to/image1.jpg"
+    }
+  ]
