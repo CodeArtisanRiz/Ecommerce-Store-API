@@ -237,20 +237,30 @@ http://127.0.0.1:8000/orders/all/
 
     4. Click Send to view the orders.
 ```
-Example: http://127.0.0.1:8000/orders/view/
+Example: http://127.0.0.1:8000/orders/all/
 
 Response:
 [
     {
         "id": 1,
-        "status": "NO",
-        "name": "Smartphone X200",
-        "category": "EL",
-        "description": "A high-end smartphone with amazing features.",
-        "price": 1200,
-        "image": "path/to/image1.jpg",
-        "created_at": "2024-07-06T18:43:51.959628Z",
-        "updated_at": "2024-07-06T18:43:51.959636Z"
+        "customer_name": "Vikram Rathore",
+        "customer_email": "vik.rathore@example.com",
+        "customer_phone": "987-654-3210",
+        "shipping_address": "456 MG Road",
+        "shipping_city": "Mumbai",
+        "shipping_state": "MH",
+        "shipping_zip": "400001",
+        "shipping_country": "India",
+        "order_date": "2024-07-06T18:52:44.776157Z",
+        "status": "D",
+        "total_price": "299.99",
+        "payment_method": "Debit Card",
+        "payment_status": "Paid",
+        "products": [
+            15,
+            25,
+            30
+        ]
     },
     ...
 ]
