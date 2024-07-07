@@ -143,7 +143,7 @@ Response:
     2. Set the request type to POST.
     3. Enter the endpoint URL.
 ```
-http://127.0.0.1:8000/products/create/
+http://127.0.0.1:8000/orders/create/
 ```
     4. Go to the Body tab.
     5. Select raw and choose JSON from the dropdown menu.
