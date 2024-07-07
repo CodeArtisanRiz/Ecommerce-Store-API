@@ -1,9 +1,9 @@
 [
     {
-      "name": "Sony Xperia",
+      "name": "Realme GT",
       "category": "EL",
-      "price": 54000.00,
-      "description": "A high-end smartphone with high-quality camera and great looks.",
+      "price": 15000.00,
+      "description": "A mid-range smartphone.",
       "image": "path/to/image1.jpg"
     }
   ]
