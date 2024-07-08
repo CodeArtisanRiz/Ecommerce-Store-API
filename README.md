@@ -14,13 +14,14 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the repository:**
     ```
     git clone https://github.com/CodeArtisanRiz/Ecommerce-Store-API.git
-    cd Ecommerce-Store-API/ecommerce_store
+    cd Ecommerce-Store-API
     ```
 
 2. **Create and activate a virtual environment:**
     ```
     python -m venv .venv
     source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
+    cd ecommerce_store
     ```
 
 3. **Install the required packages:**
