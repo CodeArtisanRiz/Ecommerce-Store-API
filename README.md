@@ -293,8 +293,6 @@ python manage.py load_orders link.json
 ```
 python manage.py generate_recommendations
 ```
-    Example:
-    python manage.py load_orders single_order.json
 
 ### J. View recommendations
 
