@@ -36,13 +36,18 @@ Follow these steps to set up the project on your local machine:
     python manage.py migrate
     ```
 
-5. **Load initial data for products and orders:**
+5. **Run Server**
     ```
-    python manage.py load_products
-    python manage.py load_orders
+    python manage.py runserver
     ```
 
-6. **Generate recommendations:**
+6. **Load initial data for products and orders:**
+    ```
+    python manage.py load_products products.json
+    python manage.py load_orders orders.json
+    ```
+
+7. **Generate recommendations:**
     ```
     python manage.py generate_recommendations
     ```
