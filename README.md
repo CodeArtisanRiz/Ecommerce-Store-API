@@ -31,6 +31,7 @@ Follow these steps to set up the project on your local machine:
 
 4. **Make migrations and migrate the database:**
     ```
+    cd ecommerce_store
     python manage.py makemigrations
     python manage.py migrate
     ```
