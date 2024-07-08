@@ -21,12 +21,12 @@ Follow these steps to set up the project on your local machine:
     ```
     python -m venv .venv
     source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
-    cd ecommerce_store
     ```
 
-3. **Install the required packages:**
+3. **Install the required packages and change dir:**
     ```
     pip install -r requirements.txt
+    cd ecommerce_store
     ```
 
 4. **Make migrations and migrate the database:**
