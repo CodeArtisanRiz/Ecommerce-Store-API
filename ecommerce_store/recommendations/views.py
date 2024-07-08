@@ -41,7 +41,7 @@ class RecommendationView(APIView):
                     "name": product.name,
                     "category": product.category,
                     "price": product.price,
-                    "image": product.image.url
+                    "image": product.image
                 },
                 "recommended_products": ProductSerializer(category_products, many=True).data
             }
