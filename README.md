@@ -14,7 +14,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the repository:**
     ```
     git clone https://github.com/CodeArtisanRiz/Ecommerce-Store-API.git
-    cd ecommerce_store
+    cd Ecommerce-Store-API/ecommerce_store
     ```
 
 2. **Create and activate a virtual environment:**
