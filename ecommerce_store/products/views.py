@@ -25,10 +25,10 @@ class AddProductView(APIView):
         return Response(serializer.errors, status=400)
 
 class ViewProductAPIView(APIView):
-    def get(self, request, order_id):
+    def get(self, request, pro_id):
         try:
-            order = Products.objects.get(id=order_id)
-            serializer = ProductSerializer(order)
+            product = Products.objects.get(id=pro_id)
+            serializer = ProductSerializer(product)
             return Response(serializer.data)
         except Products.DoesNotExist:
             return Response({"error": "Product not found"}, status=404)
